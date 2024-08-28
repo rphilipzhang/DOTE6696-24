@@ -1,1 +1,1 @@
-# Advanced Business Analytics Practicum
+# Advanced Business Analytics Practicum (Fall 2024)
