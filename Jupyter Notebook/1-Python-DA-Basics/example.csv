@@ -1,0 +1,11 @@
+class,country,color,size,price,quantity
+A,JP,black,S,99,1210
+B,CN,white,M,79,1340
+B,US,black,L,108,2410
+B,US,white,M,89,1458
+C,US,black,L,99,1124
+A,CN,white,S,100,2217
+B,CN,black,S,105,989
+A,CA,white,XL,111,1009
+C,JP,black,XL,86,1342
+C,CA,white,M,94,1077
