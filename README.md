@@ -14,4 +14,8 @@ Welcome to the mono-repo for the Advanced Business Analytics Practicum (DOTE 669
 
 ## Jupyter Notebooks
 
-**[Intro to Python]()**
+**[Intro to Python](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Jupyter%20Notebook/1-Python-DA-Basics/1-Python_DA_Basics.ipynb)**
+
+## SQL References
+
+**[Leetcode Questions and Solutions](https://github.com/rphilipzhang/DOTE6696-24/tree/main/SQL%20References/Leetcode)**, **[SQL Tutorials](https://github.com/rphilipzhang/DOTE6696-24/tree/main/SQL%20References/Tutorials)**, **[W3Schools on SQL](https://www.w3schools.com/sql/)**
