@@ -19,3 +19,7 @@ Welcome to the mono-repo for the Advanced Business Analytics Practicum (DOTE 669
 ## SQL References
 
 **[Leetcode Questions and Solutions](https://github.com/rphilipzhang/DOTE6696-24/tree/main/SQL%20References/Leetcode)**, **[SQL Tutorials](https://github.com/rphilipzhang/DOTE6696-24/tree/main/SQL%20References/Tutorials)**, **[W3Schools on SQL](https://www.w3schools.com/sql/)**
+
+## YouTube Channel
+
+**[Pragmatic Data Scientists](https://www.youtube.com/@pragmaticdata)
