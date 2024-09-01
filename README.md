@@ -22,4 +22,4 @@ Welcome to the mono-repo for the Advanced Business Analytics Practicum (DOTE 669
 
 ## YouTube Channel
 
-**[Pragmatic Data Scientists](https://www.youtube.com/@pragmaticdata)
+**[Pragmatic Data Scientists](https://www.youtube.com/@pragmaticdata)**
