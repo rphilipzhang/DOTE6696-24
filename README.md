@@ -19,7 +19,7 @@ Welcome to the mono-repo for the Advanced Business Analytics Practicum (DOTE 669
 
 ## Computational Resource from CUHK DOT Department
 
-If you need to use the **[GPU Server](https://github.com/QiansiqiHu/DOT-server)** of CUHK DOT Department, please email Prof. Zhang to get the approval at philipzhang@cuhk.edu.hk. 
+If you need to use the **[GPU Server](https://github.com/QiansiqiHu/DOT-server)** of CUHK DOT Department, please email Prof. Zhang (philipzhang@cuhk.edu.hk) to get the approval. 
 
 ## SQL References
 
