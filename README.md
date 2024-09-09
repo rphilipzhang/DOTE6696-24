@@ -8,9 +8,9 @@
 ## About
 Welcome to the mono-repo for the Advanced Business Analytics Practicum (DOTE 6696) course. Please read the [Syllabus](https://docs.google.com/document/d/13-MqYXHFfyGE5Hi-sNbzCC6oagWhjggI1ifUI1nNLOQ/edit?usp=sharing) of this course carefully. Please also follow the [instructions here](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Jupyter%20Notebook/JupyterNotebookGuide.pdf) to set up the Jupyter Notebook on your own computer.
 
-## Slides
+## Slides & Notes
 
-**[Orientation](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/BA-Practicum.pdf)**, **[Introduction](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/PDS-W2024-1-Introduction.pdf)**
+**[Orientation](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/BA-Practicum.pdf)**, **[Introduction](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/PDS-W2024-1-Introduction.pdf)**, **[Notes of Sep 3 2024](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Notes/240903.pdf)**
 
 ## Jupyter Notebooks
 
