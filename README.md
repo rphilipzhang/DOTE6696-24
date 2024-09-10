@@ -15,7 +15,7 @@ Welcome to the mono-repo for the Advanced Business Analytics Practicum (DOTE 669
 ## Jupyter Notebooks
 
 
-**[Intro to Python](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Jupyter%20Notebook/1-Python-DA-Basics/1-Python_DA_Basics.ipynb)**
+**[Intro to Python](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Jupyter%20Notebook/1-Python-DA-Basics/1-Python_DA_Basics.ipynb)**, **[Case: The Path into Fudan and SJTU in Shanghai](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Jupyter%20Notebook/2-Shanghai-FDU-SJTU/2-Shanghai_FDU_SJTU.ipynb)**
 
 ## Computational Resource from CUHK DOT Department
 
