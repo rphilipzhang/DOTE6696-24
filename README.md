@@ -10,7 +10,7 @@ Welcome to the mono-repo for the Advanced Business Analytics Practicum (DOTE 669
 
 ## Slides & Notes
 
-**[Orientation](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/BA-Practicum.pdf)**, **[Introduction](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/PDS-W2024-1-Introduction.pdf)**, **[Notes of Sep 3 2024](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Notes/240903.pdf)**, **[GenAI-Powered Programming](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/PDS-W2024-2-GenAI.pdf)**
+**[Orientation](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/BA-Practicum.pdf)**, **[Introduction](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/PDS-W2024-1-Introduction.pdf)**, **[Notes of Sep 3 2024](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Notes/240903.pdf)**, **[GenAI-Powered Analytics](https://github.com/rphilipzhang/DOTE6696-24/blob/main/Slides/PDS-W2024-2-GenAI.pdf)**
 
 ## Jupyter Notebooks
 
